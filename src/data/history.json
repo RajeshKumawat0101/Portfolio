@@ -1,0 +1,24 @@
+[
+  {
+    "role": "NSS Member",
+    "organisation": "National Service Scheme (NSS), NIT Patna",
+    "startDate": "Sept, 2021",
+    "endDate": "Member",
+    "experiences": [
+      "Organized community service events for social welfare.",
+      "Collaborated on projects improving underprivileged lives."
+    ],
+    "imageSrc": "history/nss.jpeg"
+  },
+  {
+    "role": "Teacher",
+    "organisation": "Sankalp Club, NIT Patna",
+    "startDate": "Mar, 2021",
+    "endDate": "Member",
+    "experiences": [
+      "Provided education to underprivileged students.",
+      "Mentored children, bridging educational gaps."
+    ],
+    "imageSrc": "history/th.jpeg"
+  }
+]

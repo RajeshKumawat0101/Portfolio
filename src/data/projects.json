@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Pay-Smart",
+      "imageSrc": "projects/project.png",
+      "description": "Pay-Smart is a debt settlement tool designed to simplify group financial management. By modeling debts as a graph, it minimizes transactions required to settle obligations among members. Built using C++ with Data Structures and Algorithm",
+      "skills": ["C++", "DSA", "VScode"],
+      "demo": "",
+      "source": "https://github.com/RajeshKumawat0101/Pay-Smart.git"
+    },
+    {
+      "title": "NextSpark",
+      "imageSrc": "projects/project.png",
+      "description": "NextSpark is a web application designed to assist job and internship seekers by providing a centralized platform for off-campus application links. Built using React.js, Tailwind CSS, Node.js, Express.js, and MongoDB",
+      "skills": ["Tailwind","React", "Node"],
+      "demo": "",
+      "source": "https://github.com/RajeshKumawat0101/NextSpark.git"
+    }
+]

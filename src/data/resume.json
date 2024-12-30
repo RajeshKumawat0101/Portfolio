@@ -1,0 +1,21 @@
+{
+  "numpages": 1,
+  "numrender": 1,
+  "info": {
+    "PDFFormatVersion": "1.5",
+    "IsAcroFormPresent": false,
+    "IsXFAPresent": false,
+    "Title": "",
+    "Author": "",
+    "Subject": "",
+    "Keywords": "",
+    "Creator": "LaTeX with hyperref",
+    "Producer": "pdfTeX-1.40.26",
+    "CreationDate": "D:20241214113032Z",
+    "ModDate": "D:20241214113032Z",
+    "Trapped": { "name": false }
+  },
+  "metadata": null,
+  "text": "\n +\n    \n +\n    Rajesh Kumawat+91-9950816267\n +\n    Bachelor of Technologyrajeshk.ug21.cs@nitp.ac.in\n +\n    Computer Science and Engineeringlinkedin.com/in/rajesh-kumawat-88a305222\n +\n    National Institute of Technology, Patnagithub.com/RajeshKumawat0101\n +\n    Education\n +\n    Degree/CertificateInstitute/BoardCGPA/PercentageYear\n +\n    B.Tech., CSENational Institute of Technology, Patna7.6105/2025\n +\n    Senior SecondaryBoard of Secondary Education, Rajasthan86.672020\n +\n    SecondaryBoard of Secondary Education, Rajasthan93.332018\n +\n    Experience\n +\n    •\n +\n    Software Developer (Public Sphere)Patna, Bihar\n +\n    HackOFest 2024|Organized by IEEE SocietyApril 2024\n +\n    ◦\n +\n    Coordinated with a team of4 developersto design and develop a web application providing off-campus job\n +\n    and internship opportunities, leveraging React.js and Tailwind CSS.\n +\n    ◦\n +\n    AchievedTop 20 Teamsrecognition out of200+ teamsfor the solution’s impact and technical execution.\n +\n    ◦\n +\n    Delivered a fully functional prototype accessed by100+ usersduring the hackathon.\n +\n    Projects\n +\n    •\n +\n    Pay Smart: Debt Settlement SolutionMay 2023\n +\n    Tools & Technologies: C++, Data Structures, Algorithms[§]\n +\n    ◦\n +\n    Designed a solution for group debt settlement by modeling financial obligations as a graph.\n +\n    ◦\n +\n    Minimized the number of transactions required to clear all debts by leveraging graphs, multisets, and\n +\n    heaps to match debtors and creditors efficiently.\n +\n    ◦\n +\n    Optimized workflows for group expenses, peer-to-peer loans, and organizational financial processes,\n +\n    reducing transaction complexity by100%\n +\n    •\n +\n    NextSpark: Web Application for Off-Campus Job OpportunitiesJune 2024\n +\n    Tools & Technologies: React.js, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB[§]\n +\n    ◦\n +\n    Built the front-end of the application usingReact JsandTailwind CSS, leveraging React Context Hook to\n +\n    pass data through a component tree without needing to pass props manually at every level.\n +\n    ◦\n +\n    Engineered15+functional, secure and robustREST APIsusing Node Js and connected them with NoSQL\n +\n    Store(MongoDB).\n +\n    ◦\n +\n    Conducted exhaustive API testing using postman, Performed API Integration using JavaScript fetch\n +\n    method.\n +\n    Skills\n +\n    •\n +\n    Programming Languages: C, C++, Java, Python, Javascript\n +\n    •\n +\n    Backend Technologies: Node.js, Express.js, REST APIs\n +\n    •\n +\n    Frontend Technologies: HTML, Taiwind CSS, JavaScript, React.js\n +\n    •\n +\n    Databases: MySQL, NoSQL (MongoDB)\n +\n    •\n +\n    Core Concepts: Data Structures, Algorithms, Object-Oriented Programming (OOP), Operating System\n +\n    (OS), Database Management System (DBMS)\n +\n    •\n +\n    Version Control & Collboration: Git, Github\n +\n    •\n +\n    Developer Tools: Visual Studio Code, Postman, Jupyter Notebook\n +\n    Achievements\n +\n    •\n +\n    Finished in Top 20among200+ teamsin HackOFest Hackathon organised by IEEE Society, NIT Patna.\n +\n    •\n +\n    Leetcode:Achieved Rating of1824, resulting in the top8%of programmers globally.\n +\n    •\n +\n    Geeksforgeeks: Highest Rating 1656\n +\n    •\n +\n    CodeChef:Earned a2 starwth a rating of1585, resulting inTop 12%nationally.\n +\n    •\n +\n    Solved 1000+ problemsDSA problems on various online platforms.\n +\n    Positions of Responsibility\n +\n    •\n +\n    Teacher,Sankalp, NIT PATNA2021-2024\n +\n    •\n +\n    Member,National Service Scheme (NSS), NIT PATNAMonth Year",
+  "version": "1.10.100"
+}
