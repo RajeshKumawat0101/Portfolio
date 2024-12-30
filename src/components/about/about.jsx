@@ -41,7 +41,7 @@ export const About = () => {
                         />
                         <div className={styles.aboutItemText}>
                             <h3>Competitive Programmer</h3>
-                            <p>Practicing competitive programming for 2 years, solved more than 500 que.</p>
+                            <p>Practicing competitive programming for 2 years, solved more than 900 que.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
@@ -58,7 +58,7 @@ export const About = () => {
                                 Resume, CV
                             </a>
                             <p>
-                                Experienced in MERN STACK Development for 2 years. Worked as a full-stack developer in various college projects.
+                                Experienced in MERN STACK Development for 2 years. Worked as a full-stack developer in several projects.
                             </p>
                         </div>
                     </li>
