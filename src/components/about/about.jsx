@@ -48,7 +48,8 @@ export const About = () => {
                         <CoPresentRoundedIcon className={styles.icon} />
                         <div className={styles.aboutItemText}>
                             <a 
-                                href="https://drive.google.com/file/d/1RN7wjOgjj8wvInO9hOGztcoSb2Z_dO1s/view?usp=drive_link" 
+                                href="https://drive.google.com/uc?export=download&id=1RN7wjOgjj8wvInO9hOGztcoSb2Z_dO1s"
+                                download="RajeshResume.pdf" 
                                 target="_blank" 
                                 rel="noopener noreferrer"
                                 className={styles.resumeLink}
